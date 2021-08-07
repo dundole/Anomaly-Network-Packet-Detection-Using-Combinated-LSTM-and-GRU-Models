@@ -1,0 +1,1 @@
+https://dundole.notion.site/LSTM-GRU-2021-03-01-2021-06-10-f9a7939c7c384e1a9918b0cde144e1e9
